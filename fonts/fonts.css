@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "bold";
+    font-style: normal;
+    src: url("Akrobat-Bold.ttf");
+  }
+
+  @font-face {
+    font-family: "regular";
+    font-style: normal;
+    src: url("Akrobat-Regular.ttf");
+  }
+
+  @font-face {
+    font-family: "semi-bold";
+    font-style: normal;
+    src: url("Akrobat-SemiBold.ttf");
+  }
